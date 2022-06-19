@@ -1,0 +1,4 @@
+DATA part filter in index.blade.php:
+    if i use eloquent -> data passed to view but use foreach not work
+    but id quey builder -> data work also syntax
+(? result query builder and eloquent different ??

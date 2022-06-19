@@ -1,0 +1,37 @@
+[17-Jun-2022 02:29:11] NOTICE: fpm is running, pid 17
+[17-Jun-2022 02:29:11] NOTICE: ready to handle connections
+[17-Jun-2022 02:29:11] NOTICE: systemd monitor interval set to 10000ms
+[17-Jun-2022 02:39:34] NOTICE: fpm is running, pid 15
+[17-Jun-2022 02:39:34] NOTICE: ready to handle connections
+[17-Jun-2022 02:39:34] NOTICE: systemd monitor interval set to 10000ms
+[17-Jun-2022 02:50:00] NOTICE: fpm is running, pid 16
+[17-Jun-2022 02:50:00] NOTICE: ready to handle connections
+[17-Jun-2022 02:50:00] NOTICE: systemd monitor interval set to 10000ms
+[17-Jun-2022 02:54:53] NOTICE: Terminating ...
+[17-Jun-2022 02:54:53] NOTICE: exiting, bye-bye!
+[17-Jun-2022 05:49:55] NOTICE: fpm is running, pid 17
+[17-Jun-2022 05:49:55] NOTICE: ready to handle connections
+[17-Jun-2022 05:49:55] NOTICE: systemd monitor interval set to 10000ms
+[17-Jun-2022 07:03:20] NOTICE: fpm is running, pid 16
+[17-Jun-2022 07:03:20] NOTICE: ready to handle connections
+[17-Jun-2022 07:03:20] NOTICE: systemd monitor interval set to 10000ms
+[17-Jun-2022 07:37:08] NOTICE: Terminating ...
+[17-Jun-2022 10:51:27] NOTICE: fpm is running, pid 16
+[17-Jun-2022 10:51:27] NOTICE: ready to handle connections
+[17-Jun-2022 10:51:27] NOTICE: systemd monitor interval set to 10000ms
+[18-Jun-2022 00:51:16] NOTICE: fpm is running, pid 16
+[18-Jun-2022 00:51:16] NOTICE: ready to handle connections
+[18-Jun-2022 00:51:16] NOTICE: systemd monitor interval set to 10000ms
+[18-Jun-2022 01:00:39] NOTICE: Terminating ...
+[18-Jun-2022 01:02:45] NOTICE: fpm is running, pid 16
+[18-Jun-2022 01:02:45] NOTICE: ready to handle connections
+[18-Jun-2022 01:02:45] NOTICE: systemd monitor interval set to 10000ms
+[18-Jun-2022 01:04:24] NOTICE: fpm is running, pid 16
+[18-Jun-2022 01:04:24] NOTICE: ready to handle connections
+[18-Jun-2022 01:04:24] NOTICE: systemd monitor interval set to 10000ms
+[18-Jun-2022 01:15:51] NOTICE: fpm is running, pid 15
+[18-Jun-2022 01:15:51] NOTICE: ready to handle connections
+[18-Jun-2022 01:15:51] NOTICE: systemd monitor interval set to 10000ms
+[18-Jun-2022 11:07:31] NOTICE: fpm is running, pid 15
+[18-Jun-2022 11:07:31] NOTICE: ready to handle connections
+[18-Jun-2022 11:07:31] NOTICE: systemd monitor interval set to 10000ms
