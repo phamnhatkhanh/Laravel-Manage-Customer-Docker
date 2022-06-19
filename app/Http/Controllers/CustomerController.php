@@ -19,6 +19,7 @@ class CustomerController extends Controller
         $search_phone= '';
         $from_age='';
         $to_age='';
+        $err=array();
         $customers = Customer::all();
         return view('customer.index')->with(['customers'=>$customers,'search_name'=>$search_name,'search_phone'=>$search_phone,'from_age'=>$from_age,'to_age'=>$to_age])->with('errors',$err);;
     }
@@ -124,10 +125,10 @@ class CustomerController extends Controller
         if(empty ($request->search_phone)    ){
              $search_phone='';
         }elseif( is_numeric($search_phone)){
-
-            $err[]='Phone number is not correct';
-        }else{
             $search_phone= $request->search_phone;
+
+        }else{
+            $err[]='Phone number is not correct';
         }
 
 
